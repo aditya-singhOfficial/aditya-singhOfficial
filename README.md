@@ -32,6 +32,18 @@
     </table>
 </div>
 
+<style>
+    @media (max-width: 600px) {
+        .stats-table tr {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .stats-table td {
+            margin-bottom: 10px; /* Add some spacing between items */
+        }
+    }
+</style>
 
 
 
