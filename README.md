@@ -44,8 +44,11 @@
 ## My Stats:
 <p align="center">&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=developer-adityasingh&show_icons=true&locale=en&theme=tokyonight" alt="developer-adityasingh" /></p>
 
+
 ## Activity On GitHub
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-adityasingh&&theme=tokyonight" alt="streak" /></p>
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developer-adityaSingh&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+</p>
 
 
 
