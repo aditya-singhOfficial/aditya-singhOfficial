@@ -6,6 +6,10 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-adityasingh&label=Profile%20views&color=0e75b6&style=flat" alt="developer-adityasingh" /> </p>
 
+- 👀 I’m passionate about web technologies.
+- 🌱 I’m currently learning JavaScript and diving deeper into modern frameworks.
+- 💼 I’m eager to collaborate on freelance projects and creative ventures via platforms like Fiverr and Canva, bringing innovative web solutions to life.
+- 🔍 Always on the lookout for new challenges that push my coding skills further and broaden my tech stack.
 - ⚡ Fun Fact: **When I'm not coding, you can find me leveling up in my favorite video games!**
 
 <h3 align="left">Connect with me:</h3>
