@@ -32,18 +32,32 @@
     </table>
 </div>
 
-<style>
-    @media (max-width: 600px) {
-        .stats-table tr {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .stats-table td {
-            margin-bottom: 10px; /* Add some spacing between items */
-        }
-    }
-</style>
+<!-- Desktop view -->
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-adityasingh&show_icons=true&locale=en&layout=compact" alt="developer-adityasingh" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=developer-adityasingh&show_icons=true&locale=en" alt="developer-adityasingh" />
+            </td>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-adityasingh&" alt="developer-adityasingh" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Mobile view -->
+<div align="center" style="display: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-adityasingh&show_icons=true&locale=en&layout=compact" alt="developer-adityasingh" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=developer-adityasingh&show_icons=true&locale=en" alt="developer-adityasingh" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-adityasingh&" alt="developer-adityasingh" />
+</div>
+
 
 
 
