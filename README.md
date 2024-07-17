@@ -53,6 +53,14 @@
    <a href="https://github.com/developer-adityaSingh"><img src="https://streak-stats.demolab.com?user=developer-adityaSingh&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
+## My Top Repo
+
+[![UltraEdit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UltraEdit&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UltraEdit)
+[![UsabilityHub](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UsabilityHub&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UsabilityHub)
+[![Resume](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=Resume&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/Resume)
+
+
+
 
 
 
