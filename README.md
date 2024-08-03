@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer from India, dedicated to crafting innovative solutions and embracing new technologies.</h3>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=7CF74C&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Creating+cutting-edge+software;+solutions+with+passion." alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=7CF74C&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Creating+cutting-edge+software;+solutions+with+passion." alt="Typing SVG" />
 </p>
 
 ## Profile Views
