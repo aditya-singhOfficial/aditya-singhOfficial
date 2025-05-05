@@ -45,7 +45,7 @@
 
 
 ## My Stats:
-<p align="center">&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-singhOfficial/&show_icons=true&locale=en&theme=tokyonight" alt="developer-adityasingh" /></p>
+<p align="center">&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-singhOfficial&show_icons=true&locale=en&theme=tokyonight" alt="developer-adityasingh" /></p>
 
 
 ## Activity On GitHub
@@ -55,10 +55,10 @@
 
 ## My Top Repo
 
-[![Tic-Tac-Toe](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial/&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial//Tic-Tac-Toe)
-[![Calculator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial/&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/Calculator)
-[![UltraEdit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UltraEdit&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UltraEdit)
-[![UsabilityHub](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UsabilityHub&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UsabilityHub)
+[![Tic-Tac-Toe](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Tic-Tac-Toe)
+[![Calculator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Calculator)
+[![UltraEdit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=UltraEdit&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/UltraEdit)
+[![UsabilityHub](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=UsabilityHub&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/UsabilityHub)
 
 
 
