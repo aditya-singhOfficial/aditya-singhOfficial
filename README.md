@@ -45,18 +45,18 @@
 
 
 ## My Stats:
-<p align="center">&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=developer-adityasingh&show_icons=true&locale=en&theme=tokyonight" alt="developer-adityasingh" /></p>
+<p align="center">&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-singhOfficial/&show_icons=true&locale=en&theme=tokyonight" alt="developer-adityasingh" /></p>
 
 
 ## Activity On GitHub
 <p align="center">
-   <a href="https://github.com/developer-adityaSingh"><img src="https://streak-stats.demolab.com?user=developer-adityaSingh&theme=tokyonight" alt="GitHub Streak" /></a>
+   <a href="https://github.com/developer-adityaSingh"><img src="https://streak-stats.demolab.com?user=aditya-singhOfficial/&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ## My Top Repo
 
-[![Tic-Tac-Toe](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/Tic-Tac-Toe)
-[![Calculator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/Calculator)
+[![Tic-Tac-Toe](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial/&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial//Tic-Tac-Toe)
+[![Calculator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial/&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/Calculator)
 [![UltraEdit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UltraEdit&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UltraEdit)
 [![UsabilityHub](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=developer-adityaSingh&repo=UsabilityHub&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/developer-adityaSingh/UsabilityHub)
 
