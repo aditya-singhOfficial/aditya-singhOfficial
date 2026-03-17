@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=developer-adityaSingh&style=for-the-badge&color=brightgreen" alt="Profile Views">
+         <a href="https://github.com/developer-adityaSingh"> <img src="https://komarev.com/ghpvc/?username=developer-adityaSingh&style=for-the-badge&color=brightgreen" alt="Profile Views">
  </a>
       </td>
     </tr>
@@ -25,10 +25,12 @@
 
 
 ## About Myself
-- 💻 I’m passionate about web technologies.
-- 🌱 I’m currently learning JavaScript and diving deeper into modern frameworks.
-- 🤝 I’m eager to collaborate on freelance projects and creative ventures via platforms like Fiverr and Canva, bringing innovative web solutions to life.
-- 🔍 Always on the lookout for new challenges that push my coding skills further and broaden my tech stack.
+- 🎓 I'm currently pursuing my **B.Tech in Computer Science and Engineering** at LNCT, Bhopal.
+- 💻 I’m passionate about full-stack web development, with a strong focus on building scalable applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🚀 I bring real-world experience to the table, having worked as a **Frontend Development Intern** at Agrilearn Nexus (focusing heavily on ReactJS) and as an **IT Intern** at Flyseas Pvt. Ltd.
+- 🛡️ I've also broadened my technical foundation by completing a virtual internship in Cybersecurity & Networking with **Cisco**.
+- 🤝 I’m always eager to collaborate on innovative open-source projects, hackathons, and freelance ventures to bring creative web solutions to life.
+- 🔍 Currently diving deeper into advanced backend architectures and refining my skills in Java and Python.
 - 🎮 Fun Fact: **When I'm not coding, you can find me leveling up in my favorite video games!**
 
 ## Connect with me:
