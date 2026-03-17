@@ -55,13 +55,10 @@
 
 ## My Top Repo
 
+[![Trade-Nova](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Trade-Nova&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Trade-Nova)
+[![Password-Manager](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Password-Manager&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Password-Manager)
 [![Tic-Tac-Toe](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Tic-Tac-Toe)
 [![Calculator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/Calculator)
-[![UltraEdit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=UltraEdit&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/UltraEdit)
-[![UsabilityHub](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=UsabilityHub&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/aditya-singhOfficial/UsabilityHub)
-
-
-
 
 
 
