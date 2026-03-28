@@ -13,12 +13,12 @@
 I'm a **final-year Computer Science student** and **full-stack developer (MERN)** focused on building scalable, real-world applications.  
 I enjoy working on problems that require **clean architecture, efficient backend systems, and thoughtful UI design**.
 
-- 🎓 B.Tech in CSE @ **LNCT, Bhopal** *(2025)*
+- 🎓 B.Tech in CSE @ **LNCT, Bhopal** *(2027)*
 - 💼 Former **Frontend Developer Intern** @ Agrilearn Nexus  
 - 🛡️ Completed **Cisco Cybersecurity & Networking Virtual Internship**  
 - 🔭 Currently diving deeper into **backend engineering & system design**  
 - 🌱 Exploring **NestJS, PostgreSQL, and distributed systems**  
-- 🎯 Actively seeking **SDE roles (2025)**  
+- 🎯 Actively seeking **SDE roles (2027)**  
 
 ---
 
@@ -26,6 +26,7 @@ I enjoy working on problems that require **clean architecture, efficient backend
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
