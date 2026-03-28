@@ -51,16 +51,20 @@
 ## 🏆 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/aditya-singhOfficial/NexMeet">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=NexMeet&theme=tokyonight&hide_border=true" alt="NexMeet" />
+  </a>
   <a href="https://github.com/aditya-singhOfficial/Trade-Nova">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Trade-Nova&theme=tokyonight&hide_border=true" alt="Trade-Nova" />
   </a>
+  <br>
   <a href="https://github.com/aditya-singhOfficial/Password-Manager">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Password-Manager&theme=tokyonight&hide_border=true" alt="Password-Manager" />
   </a>
-  <br>
   <a href="https://github.com/aditya-singhOfficial/Tic-Tac-Toe">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true" alt="Tic-Tac-Toe" />
   </a>
+  <br>
   <a href="https://github.com/aditya-singhOfficial/Calculator">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aditya-singhOfficial&repo=Calculator&theme=tokyonight&hide_border=true" alt="Calculator" />
   </a>
