@@ -44,6 +44,8 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-singhOfficial&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-singhOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+
   <img height="180" src="https://streak-stats.demolab.com?user=aditya-singhOfficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
