@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/developer-adityaSingh/developer-adityaSingh/blob/main/Beige%20%26%20Blue%20Simple%20Brush%20Personal%20LinkedIn%20Banner.png" width="100%" alt="Aditya Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aditya%20Singh&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Enthusiast&descSize=20&descAlignY=65&animation=fadeIn" width="100%" alt="Aditya Singh Banner" />
+
   <br><br>
 
   <h1>Hi there, I'm Aditya Singh 👋</h1>
