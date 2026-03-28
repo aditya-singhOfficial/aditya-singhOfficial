@@ -41,8 +41,7 @@
 ---
 
 ## 📊 GitHub Analytics
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-singhOfficial&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=4" alt="GitHub Trophies" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-singhOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<div>
 <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-singhOfficial&bg_color=0D1117&color=7CF74C&line=7CF74C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 <img height="180" src="https://streak-stats.demolab.com?user=aditya-singhOfficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
